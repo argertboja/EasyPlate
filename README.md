@@ -16,11 +16,11 @@
 <hr /> 
 
 ### Screenshots:
-#### Splash Screen:\t #### Ingredients Screen:
-<center><img src="https://github.com/argertboja/EasyPlate/blob/master/Screenshots/1.jpg" width="250" height="450"></center><br>
+#### Splash Screen: 
+<center><img src="https://github.com/argertboja/EasyPlate/blob/master/Screenshots/1.jpg" width="200" height="400"></center><br>
 
-
-<center><img src="https://github.com/argertboja/EasyPlate/blob/master/Screenshots/2.jpg" width="250" height="450"></center><br>
+#### Ingredients Screen:
+<center><img src="https://github.com/argertboja/EasyPlate/blob/master/Screenshots/2.jpg" width="200" height="400"></center><br>
 
 #### Recipe Screen:
-<center><img src="https://github.com/argertboja/EasyPlate/blob/master/Screenshots/3.jpg" width="250" height="450"></center><br>
+<center><img src="https://github.com/argertboja/EasyPlate/blob/master/Screenshots/3.jpg" width="200" height="400"></center><br>
