@@ -1,0 +1,72 @@
+
+<resources>
+    <string name="app_name">EasyPlate</string>
+    <string-array name="names">
+        <item>"Bacon"</item>
+        <item>"Baking Soda"</item>
+        <item>"Banana"</item>
+        <item>"Basil"</item>
+        <item>"Beef"</item>
+        <item>"Black Olives"</item>
+        <item>"Bread"</item>
+        <item>"Broccoli"</item>
+        <item>"Butter"</item>
+        <item>"Cheese"</item>
+        <item>"Chicken"</item>
+        <item>"Chocolate"</item>
+        <item>"Cider Vinegar"</item>
+        <item>"Cinnamon"</item>
+        <item>"Cocoa Powder"</item>
+        <item>"Coconut Milk"</item>
+        <item>"Coconut Oil"</item>
+        <item>"Coriander"</item>
+        <item>"Cumin"</item>
+        <item>"Fish"</item>
+        <item>"Flour"</item>
+        <item>"Garlic"</item>
+        <item>"Green Olives"</item>
+        <item>"Ground Lamb"</item>
+        <item>"Honey"</item>
+        <item>"Lemon"</item>
+        <item>"Maple Syrup"</item>
+        <item>"Marinara"</item>
+        <item>"Milk"</item>
+        <item>"Mozzarella Sticks"</item>
+        <item>"Olive Oil"</item>
+        <item>"Onion"</item>
+        <item>"Orecchiette"</item>
+        <item>"Oregano"</item>
+        <item>"Paprika"</item>
+        <item>"Parsley"</item>
+        <item>"Passata"</item>
+        <item>"Pea"</item>
+        <item>"Peppercorns"</item>
+        <item>"Pork"</item>
+        <item>"Potato"</item>
+        <item>"Raisins"</item>
+        <item>"Rice"</item>
+        <item>"Soy Sauce "</item>
+        <item>"Spaghetti"</item>
+        <item>"Sugar"</item>
+        <item>"Thyme"</item>
+        <item>"Tomato"</item>
+        <item>"Tomato Sauce"</item>
+        <item>"Tortilla"</item>
+        <item>"Vanilla"</item>
+        <item>"Yogurt"</item>
+        <item>"Water"</item>
+        </string-array>
+
+    <integer-array name="ids">
+        <item>@drawable/bread</item>
+        <item>@drawable/cheese</item>
+        <item>@drawable/meat</item>
+        <item>@drawable/chickenbreast</item>
+        <item>@drawable/fish</item>
+        <item>@drawable/rice</item>
+        <item>@drawable/tomato3</item>
+        <item>@drawable/potato5</item>
+        <item>@drawable/milk2</item>
+        <item>@drawable/onion3</item>
+    </integer-array>
+</resources>

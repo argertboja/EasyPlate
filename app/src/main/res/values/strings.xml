@@ -1,0 +1,5 @@
+<resources>
+    <string name="appName">DishActivity</string>
+    <string name="title_activity_dish">DishActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
