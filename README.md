@@ -16,10 +16,10 @@
 <hr /> 
 
 ### Screenshots:
-#### Splash Screen:
+#### Splash Screen:\t #### Ingredients Screen:
 <center><img src="https://github.com/argertboja/EasyPlate/blob/master/Screenshots/1.jpg" width="250" height="450"></center><br>
 
-#### Ingredients Screen:
+
 <center><img src="https://github.com/argertboja/EasyPlate/blob/master/Screenshots/2.jpg" width="250" height="450"></center><br>
 
 #### Recipe Screen:
